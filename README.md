@@ -13,7 +13,7 @@
 🌍 Turning raw data into stories worth telling <br>
 🔍 Currently exploring the wild world of **Machine Learning** <br>
 💼 Actively looking for **Fresher Roles / Internships in Data Science** <br>
-🚀 Working on something big → **Hybrid ML Driven Adaptive Trust and Deception Framework for a Secure Web Application** : A System that detects and misleads potential attackers using ML - based behaviour analysis
+🚀 Working on something big → **Hybrid ML Driven Adaptive Trust and Deception Framework for a Secure Web Application**
 
 ---
 
