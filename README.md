@@ -47,4 +47,8 @@
 *"Data is the new poetry — and I write both."* ✨
 
 ---
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1800&pause=500&color=A855F7&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting+my+profile!+%F0%9F%92%9C;You+are+awesome+for+stopping+by!+✨;Have+a+wonderful+day!+🌸)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1900&pause=500&color=A855F7&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting+my+profile!+%F0%9F%92%9C;You+are+awesome+for+stopping+by!+✨;Have+a+wonderful+day!+🌸)](https://git.io/typing-svg)
+
+</div>
