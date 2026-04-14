@@ -31,8 +31,8 @@
 ## 🌸 When I'm Not Coding...
 > I'm probably doing one of these —
 
-📚 Lost in a **Novel** &nbsp;|&nbsp; 🎹 Playing **Keyboard** &nbsp;|&nbsp; 🎵 Singing **Carnatic Music**
-✏️ **Sketching** something &nbsp;|&nbsp; 🍰 **Baking** disasters &nbsp;|&nbsp; 🌿 Admiring **Nature**
+📚 Lost in a **Novel** &nbsp;|&nbsp; 🎹 Playing **Keyboard** &nbsp;|&nbsp; 🎵 Singing **Carnatic Music** &nbsp;|&nbsp;
+✏️ **Sketching** something &nbsp;|&nbsp; 🍰 **Baking** disasters &nbsp;|&nbsp; 🌿 Admiring **Nature** &nbsp;|&nbsp;
 ✍️ Writing **Poetry** &nbsp;|&nbsp; 💜 Hardcore **BTS ARMY** — no apologies!
 
 ---
