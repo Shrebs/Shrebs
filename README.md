@@ -10,10 +10,10 @@
 ---
 
 ## 👩‍💻 About Me
-🎓 **CSE - Data Science | VI Semester**
-🌍 Turning raw data into stories worth telling
-🔍 Currently exploring the wild world of **Machine Learning**
-💼 Actively looking for **Fresher Roles / Internships in Data Science**
+🎓 **CSE - Data Science | VI Semester** <br>
+🌍 Turning raw data into stories worth telling <br>
+🔍 Currently exploring the wild world of **Machine Learning** <br>
+💼 Actively looking for **Fresher Roles / Internships in Data Science** <br>
 🚀 Working on something big → **Hybrid ML Driven Adaptive Trust and Deception Framework for a Secure Web Application**
 
 ---
