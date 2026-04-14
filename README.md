@@ -34,6 +34,13 @@
 ✏️ **Sketching** something &nbsp;|&nbsp; 🍰 **Baking** disasters &nbsp;|&nbsp; 🌿 Admiring **Nature** &nbsp;|&nbsp;
 ✍️ Writing **Poetry** &nbsp;|&nbsp; 💜 Hardcore **BTS ARMY** — no apologies!
 
+<div align="center">
+  <img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" width="200" height="150" style="border-radius:10px"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" height="150" style="border-radius:10px"/>
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="200" height="150" style="border-radius:10px"/>
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200" height="150" style="border-radius:10px"/>
+</div>
+
 ---
 
 ## 📈 Currently...
