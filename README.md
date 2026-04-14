@@ -35,10 +35,10 @@
 ✍️ Writing **Poetry** &nbsp;|&nbsp; 💜 Hardcore **BTS ARMY** — no apologies!
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHQ4YnEzNm9ianY5OWo4eHJ0cWxhMnp3dTRqZ2JpbjV2ZzRmd2Z4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378p0VvTts3st2RG/giphy.gif)" width="200" height="150" style="border-radius:10px"/>
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" height="150" style="border-radius:10px"/>
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="200" height="150" style="border-radius:10px"/>
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200" height="150" style="border-radius:10px"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHQ4YnEzNm9ianY5OWo4eHJ0cWxhMnp3dTRqZ2JpbjV2ZzRmd2Z4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378p0VvTts3st2RG/giphy.gif" width="200" height="150"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHMzajRtNHB2bDh3MXltcWcxdTJqaDR3c2VjM3E0Y3hhbjZrNnl3NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hECJDGJs4hQjjWLqRV/giphy.gif" width="200" height="150"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWJuajFyeXhidzFmZ2dsZnV1b256cnlyNHNnZzZjcjN2NTNid3ZybCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dU97uV3UyP0ly/giphy.gif" width="200" height="150"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OWZncjl0bHluNHhlMG5rdTJnYjV6dmo4dnQ0OWFlNmN4MWw5dmhrbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UHhwiTMVQ21NscyTky/giphy.gif" width="200" height="150"/>
 </div>
 
 ---
